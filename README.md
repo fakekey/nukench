@@ -19,4 +19,4 @@ python main.py
 ## Demo
 
 > Click image below 😎
-> [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NV-dQkjw2eM/0.jpg)](https://www.youtube.com/watch?v=NV-dQkjw2eM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NV-dQkjw2eM/0.jpg)](https://www.youtube.com/watch?v=NV-dQkjw2eM)
